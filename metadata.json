@@ -1,0 +1,5 @@
+{
+  "name": "CineVerse Movie Reservation",
+  "description": "An advanced movie reservation system with interactive seat selection, built with React and Tailwind CSS, featuring AI-powered movie insights from Gemini.",
+  "requestFramePermissions": []
+}
